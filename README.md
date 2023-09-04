@@ -8,9 +8,9 @@ I've embarked on a journey to master the field of Deep Learning, and this reposi
 
 ## Courses
 
-1. [ChatGPT Prompt Engineering for Developers](./ChatGPT-Prompt-Engineering)
+1. [LangChain for LLM Application Development](https://github.com/mcakyerima/DeepLearning.ai_journey/tree/main/LangChain%20for%20LLM%20Application%20Development)
 2. [Building Systems with the ChatGPT API](./Building-Systems-with-ChatGPT-API)
-3. [LangChain for LLM Application Development](https://github.com/mcakyerima/DeepLearning.ai_journey/tree/main/LangChain%20for%20LLM%20Application%20Development)
+3. [ChatGPT Prompt Engineering for Developers](./ChatGPT-Prompt-Engineering)
 4. [LangChain: Chat with Your Data](./LangChain-Chat-with-Your-Data)
 5. [Finetuning Large Language Models](./Finetuning-Large-Language-Models)
 6. [Large Language Models with Semantic Search](./Large-Language-Models-Semantic-Search)
