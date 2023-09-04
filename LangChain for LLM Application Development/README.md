@@ -26,7 +26,7 @@ Before starting this course, it's recommended to have a basic understanding of P
 
 ## Course Materials
 
-You can access the course materials, including lecture slides, code samples, and additional resources, in the [Materials](Materials/) directory.
+You can access the course materials, including lecture slides, code samples, and additional resources, in the [Materials](/Materials/) directory.
 
 ## Contribution
 
