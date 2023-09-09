@@ -14,7 +14,7 @@ Before starting this course, it's recommended to have a basic understanding of P
 
 - **Module 1: Introduction to LangChain**
   - [Lesson 1: Getting Started > Models, Prompts and Output Parsers](https://github.com/mcakyerima/DeepLearning.ai_journey/blob/main/LangChain%20for%20LLM%20Application%20Development/Materials/Lesson_01_Model_prompt_parser.ipynb)
-  - [Lesson 2: LangChain Basics](Notes/Module-1/Lesson-2.md)
+  - [Lesson 2: Memory](https://github.com/mcakyerima/DeepLearning.ai_journey/blob/main/LangChain%20for%20LLM%20Application%20Development/Materials/Lesson_02_Memory.ipynb)
   - [Lesson 3: Memory Management](Notes/Module-1/Lesson-3.md)
   
 - **Module 2: Advanced LangChain Techniques**
