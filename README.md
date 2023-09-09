@@ -26,7 +26,7 @@ Here's the directory structure for each course:
 - `Course-Name/`: The main directory for the course.
     - `README.md`: An overview of the course, prerequisites, and links to course materials.
     - `Notes/`: This directory will contain detailed notes and summaries for each lesson.
-    - `Materials/`: Lecture slides, code samples, and additional course materials.
+    - `Materials/`: This directory will contain all Jupyter Notebooks for each Lesson.
 
 ## Contribution
 
