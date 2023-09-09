@@ -1,4 +1,4 @@
-# Deep Learning Learning Journey
+# Deep Learning, Learning Journey
 
 Welcome to my Deep Learning learning journey repository. This repository serves as a documentation of my progress through various Deep Learning courses offered by DeepLearning.ai. Each course has its dedicated directory with relevant course materials and detailed notes.
 
